@@ -33,7 +33,7 @@ const projects = [
         status: "Maintenance"
     },
     {
-        id: 18,
+        id: 5,
         name: "WB Stats Bot",
         creator: "DarkPassenger",
         category: "WB Discord Bots",
@@ -44,7 +44,7 @@ const projects = [
         status: "Active"
     },
     {
-        id: 20,
+        id: 17,
         name: "SquadLink Bot",
         creator: "Projelly",
         category: "WB Discord Bots",
@@ -66,7 +66,7 @@ const projects = [
         status: "Maintenance"
     },
     {
-        id: 5,
+        id: 18,
         name: "msfish",
         creator: "ddupas",
         category: "WB Discord Bots",
@@ -77,7 +77,7 @@ const projects = [
         status: "Removed"
     },
     {
-        id: 17,
+        id: 20,
         name: "[APG] Bot",
         creator: "[APG] Did You Get Sniped?",
         category: "WB Discord Bots",
